@@ -1,7 +1,0 @@
-jupyter
-tensorflow
-matplotlib
-scipy
-pooch
-numpy
-ipywidgets
