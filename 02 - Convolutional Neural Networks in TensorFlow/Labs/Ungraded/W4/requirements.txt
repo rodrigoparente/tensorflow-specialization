@@ -1,0 +1,5 @@
+jupyter
+tensorflow
+matplotlib
+numpy
+ipywidgets
