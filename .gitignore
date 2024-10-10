@@ -2,3 +2,6 @@ cats_and_dogs_filtered/
 horse-or-human/
 rock-paper-scissors/
 weights/
+data/
+*.tsv
+*pkl
