@@ -1,6 +1,6 @@
 # Tensorflow Specialization
 
-This repository contains the notes I took while doing the [Tensorflow Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course offered by DeepLearning.AI on Coursera. 
+This repository contains the notes I took while doing the [Tensorflow Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course offered by DeepLearning.AI on Coursera. My certificate can be found at [Tensorflow Specialization by DeepLearning.AI Certificate](https://coursera.org/share/289ec4b67ab9c2b4238e60b725c925ab). Certificate earned at October 12, 2024.
 
 ## Course Syllabus
 
